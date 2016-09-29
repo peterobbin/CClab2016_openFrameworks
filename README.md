@@ -28,6 +28,7 @@ Xcode is easy to start. But you should know and learn to use both of them.
 1. Install Xcode 8
 2. Download latest oF(0.9.4) for Xcode from their website.
 3. open the empty example project in ```OF_ROOT/examples/empty``` by clicking on the .xcodeproj file.
+
 ### Getting used to the environment  
 #### Editor
 This is where you write your code. Like processing main window.
