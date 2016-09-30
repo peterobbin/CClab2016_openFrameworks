@@ -44,13 +44,17 @@ However, since we still need humans to write our programs, putting everything in
 ##### Build/Debugging
 You have to build first. Even if you run debug, the IDE will build it and then start the app.
 Building the project does not mean starting the application. Debugging means: first, building the animation; then start the animation; while the application is running, spitting out useful  information for you to know if there’s something wrong. 
+
 ##### Do it in PC
 * Build -> Build Solution [F7]
 * Debug -> Start debugging [F5]
+
 ##### Do it in MAC
 * Product -> Build [CMD + B]
 * Product -> Run [CMD + R]
+
 #### Now run the project to see if everything works
+
 ### Practice
 Let’s write a simple openFrameworks program
 
